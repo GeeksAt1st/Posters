@@ -15,10 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   inkscape:export-filename="C:\Users\lmy441900\Desktop\信技社海报-密码.png"
+   inkscape:export-filename=".\recruit-hexcode.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
-   sodipodi:docname="信技社海报-密码.svg">
+   sodipodi:docname="recruit-hexcode.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -340,7 +340,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <dc:contributor>
           <cc:Agent>
             <dc:title>Runzhi Luo, Junde Yi</dc:title>
