@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1488.189"
@@ -15,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="绘图.svg">
+   sodipodi:docname="ShiYe-recruit.svg"
+   inkscape:export-filename=".\ShiYe-recruit.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4">
     <marker
@@ -193,13 +195,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-6.5748246e-5)">
-    <image
-       y="-1.6669585"
-       x="1681.3713"
-       id="image2994"
-       xlink:href="file:///C:/Users/lmy441900/Desktop/20140805221/QQ%E5%9B%BE%E7%89%8720140806123607.jpg"
-       height="1028.1984"
-       width="1370.9313" />
     <rect
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3018"
@@ -324,7 +319,7 @@
        xml:space="preserve"
        id="flowRoot3094"
        style="font-size:40.00000381px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       transform="matrix(9.0343835,0,0,9.0343835,-5374.1479,-7234.0624)"><flowRegion
+       transform="matrix(6.9607028,0,0,6.9607028,-3967.4769,-5365.3284)"><flowRegion
          id="flowRegion3096"><rect
            id="rect3098"
            width="26.315092"
@@ -382,7 +377,7 @@
            height="62.025276"
            x="1073.0372"
            y="738.10077" /></flowRegion><flowPara
-         id="flowPara3071"></flowPara></flowRoot>  </g>
+         id="flowPara3071" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
