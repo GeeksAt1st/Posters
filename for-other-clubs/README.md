@@ -1,15 +1,15 @@
 Posters for other clubs
-====
+=======================
 
 We help other clubs to make posters. These are and they also licensed under CC-BY-SA 3.0 CN.
 
 Clubs We Helped
-====
+===============
 
   * ShiYe Debate Club (拾叶辩论社)
 
 Terms We Help Other Clubs
-====
+=========================
 
 Of course we are glad to help other clubs to make posters, and we have 2 plans:
 
