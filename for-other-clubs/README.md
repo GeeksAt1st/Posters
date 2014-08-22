@@ -6,6 +6,7 @@ We help other clubs to make posters. These are and they also licensed under CC-B
 Clubs We Helped
 ===============
 
+  * Model United Nations (模联社)
   * ShiYe Debate Club (拾叶辩论社)
 
 Terms We Help Other Clubs
