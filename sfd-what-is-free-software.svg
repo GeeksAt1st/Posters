@@ -70,7 +70,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -147,15 +147,15 @@
        x="106.50805"
        y="-1654.1965" />
     <flowRoot
-       transform="matrix(3.8784681,0,0,3.8784681,-1388.1822,-3057.724)"
+       transform="matrix(3.8784681,0,0,3.8784681,-1388.1822,-3302.066)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot3818"
        xml:space="preserve"><flowRegion
          id="flowRegion3820"><rect
            y="741.05737"
            x="382.67715"
-           height="256.52545"
-           width="1465.538"
+           height="353.44794"
+           width="809.6958"
            id="rect3822" /></flowRegion><flowPara
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN Light"
          id="flowPara3835">1、不论目的为何，有使用该软件的自由。</flowPara><flowPara
@@ -167,7 +167,7 @@
          id="flowPara3843">4、有改善再利用该软件的自由，并且可以发表修订后的版本供公众使用。</flowPara><flowPara
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN Light"
          id="flowPara3841" /></flowRoot>    <flowRoot
-       transform="matrix(4.7734136,0,0,4.7734136,-1771.129,-4043.0356)"
+       transform="matrix(4.7734136,0,0,4.7734136,-1771.129,-4205.9303)"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot4665"
        xml:space="preserve"><flowRegion
@@ -180,19 +180,19 @@
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN"
          id="flowPara4671">自由软件赋予用户四种自由：</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 335.54646,162.7054 5281.54624,0"
+       d="m 335.54646,-81.636595 2794.27004,0"
        id="path5623"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        inkscape:connector-curvature="0"
        id="path5625"
-       d="m 335.0161,745.36708 4648.7631,0"
+       d="m 335.0161,501.02509 1704.1288,0"
        style="fill:none;stroke:#000000;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <flowRoot
-       transform="matrix(5.0110626,0,0,5.0110626,1170.9897,-5633.2888)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(5.0110626,0,0,5.0110626,1170.9897,-5653.2888)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot5650"
        xml:space="preserve"><flowRegion
          id="flowRegion5652"><rect
@@ -200,9 +200,10 @@
            x="382.67715"
            height="40.509972"
            width="166.6259"
-           id="rect5654" /></flowRegion><flowPara
+           id="rect5654"
+           style="fill:#00ff00" /></flowRegion><flowPara
          id="flowPara5660"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN">“可控”</flowPara></flowRoot>    <rect
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#00ff00;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN">“可控”</flowPara></flowRoot>    <rect
        y="-2017.5769"
        x="3101.2639"
        height="1202.9144"
@@ -223,5 +224,31 @@
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN Light"
          id="flowPara5673">         国家鼓励开发国产操作系统，强调“完全自主可控”。究竟什么样的软件才是真正“可控”的呢？停留在国家战略层面的可控是真正的可控吗？对于个人用户，“可控”就是能够获得对软件的完全操纵权——<flowSpan
    style="font-weight:normal;-inkscape-font-specification:Source Han Sans CN"
-   id="flowSpan5675">而能够给用户赋予这些权利的，只能是自由软件。</flowSpan></flowPara></flowRoot>  </g>
+   id="flowSpan5675">而能够给用户赋予这些权利的，只能是自由软件。</flowSpan></flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3031"
+       d="m 97.469645,112.58397 2481.011055,0"
+       style="fill:none;stroke:#000000;stroke-width:7.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3033"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(4.7734136,0,0,4.7734136,1756.1669,-4205.9303)"><flowRegion
+         id="flowRegion3035"><rect
+           id="rect3037"
+           width="380.79227"
+           height="36.003593"
+           x="382.67715"
+           y="741.05737"
+           style="fill:#ff0000" /></flowRegion><flowPara
+         id="flowPara3039"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN;fill:#ff0000">自由软件 ≠ 开源软件</flowPara></flowRoot>    <rect
+       y="-407.42584"
+       x="3239.0977"
+       height="1378.3395"
+       width="2462.2156"
+       id="rect3041"
+       style="color:#000000;fill:none;stroke:#ff0000;stroke-width:10;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:96, 16;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
 </svg>
