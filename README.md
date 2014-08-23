@@ -1,15 +1,12 @@
-Posters
-=======
+# Posters
 
 Posters made by IT Club at Dongguan No.1 Senior High School.
 
-License
-=======
+## License
 
-These posters are all licensed under Creative Commons - Attribution - ShareAlike 3.0 CN.
+These posters are all licensed under [Creative Commons - Attribution - ShareAlike 3.0 International](http://creativecommons.org/licenses/by-sa/3.0).
 
-Copyright Holders
-=================
+## Copyright Holders
 
 In general, our club holds the copyright of the posters we made.
 
