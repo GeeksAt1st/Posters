@@ -15,7 +15,7 @@
    id="svg3205"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   inkscape:export-filename=".\recruit-TangTangTang.png"
+   inkscape:export-filename="recruit-TangTangTang.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    sodipodi:docname="recruit-TangTangTang.svg">
@@ -325,13 +325,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.36928307"
+     inkscape:zoom="0.41499001"
      inkscape:cx="967.32281"
      inkscape:cy="689.17322"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     units="mm" />
+     units="mm"
+     inkscape:window-width="1320"
+     inkscape:window-height="745"
+     inkscape:window-x="0"
+     inkscape:window-y="-2"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata3210">
     <rdf:RDF>
@@ -634,18 +639,18 @@
        xml:space="preserve"
        id="flowRoot4384"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(1.327201,0,0,1.327201,-372.06806,-525.5967)"><flowRegion
+       transform="matrix(1.327201,0,0,1.327201,-392.06806,-525.5967)"><flowRegion
          id="flowRegion4386"><rect
            id="rect4388"
-           width="614.70459"
-           height="205.80417"
+           width="645.57019"
+           height="203.98857"
            x="1061.5164"
            y="945.07446"
            style="fill:#ffffff" /></flowRegion><flowPara
          id="flowPara4390"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN">某年某月某日  XX:XX</flowPara><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN">2014年9月11日  17:05</flowPara><flowPara
          id="flowPara4392"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN">我们将在某某某某某某地进行招新</flowPara><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN">我们将在电教二楼社团机房进行招新</flowPara><flowPara
          id="flowPara4394"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN">那时你就会明白</flowPara><flowPara
          id="flowPara4396"

@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   inkscape:export-filename=".\recruit-hexcode.png"
+   inkscape:export-filename="recruit-hexcode.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    sodipodi:docname="recruit-hexcode.svg">
@@ -325,13 +325,35 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.34036002"
+     inkscape:zoom="0.3273778"
      inkscape:cx="1771.6534"
      inkscape:cy="354.33069"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     units="mm" />
+     units="mm"
+     inkscape:window-width="1320"
+     inkscape:window-height="745"
+     inkscape:window-x="0"
+     inkscape:window-y="-2"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,3543.3069"
+       id="guide5617" />
+    <sodipodi:guide
+       position="3543.3069,0"
+       orientation="-708.66138,0"
+       id="guide5619" />
+    <sodipodi:guide
+       position="3543.3069,708.66138"
+       orientation="0,-3543.3069"
+       id="guide5621" />
+    <sodipodi:guide
+       position="0,708.66138"
+       orientation="708.66138,0"
+       id="guide5623" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -403,27 +425,27 @@
        transform="matrix(1.2224747,0,0,1.2224747,-256.78831,222.12127)"><flowRegion
          id="flowRegion3010"><rect
            id="rect3012"
-           width="874.41498"
-           height="49.982731"
+           width="1444.1144"
+           height="49.982727"
            x="273.24008"
            y="605.8291"
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN" /></flowRegion><flowPara
-         id="flowPara3014">提示：这是一串用 16 进制 ASCII 编码的字符。</flowPara></flowRoot>    <flowRoot
+         id="flowPara3014">提示：这是一串用 16 进制 ASCII 编码的字符。首名成功解码者可获得礼品一份！</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4384"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(2.198812,0,0,2.198812,-243.62168,-1631.0069)"><flowRegion
+       transform="matrix(2.198812,0,0,2.198812,-363.62168,-1665.0069)"><flowRegion
          id="flowRegion4386"><rect
            id="rect4388"
-           width="614.70459"
-           height="205.80417"
+           width="649.43445"
+           height="194.69066"
            x="1061.5164"
            y="945.07446"
            style="fill:#ffffff" /></flowRegion><flowPara
          id="flowPara4390"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN">某年某月某日  XX:XX</flowPara><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN">2014年9月11日(星期四)  17:05</flowPara><flowPara
          id="flowPara4392"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN">我们将在某某某某某某地进行招新</flowPara><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN">我们将在电教二楼社团机房进行招新</flowPara><flowPara
          id="flowPara4394"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:Source Han Sans CN;-inkscape-font-specification:Source Han Sans CN">那时你就会明白</flowPara><flowPara
          id="flowPara4396"
